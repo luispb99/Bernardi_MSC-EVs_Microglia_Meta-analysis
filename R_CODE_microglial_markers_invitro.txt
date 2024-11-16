@@ -1,0 +1,17 @@
+TABLE ID	ID	STUDY	CULTURE TYPE	MARKER	n_c	m_c	sd_c	n_t	m_t	sd_t
+table11	18	Xin	BV2	TNF-?_mRNA	6,00	1,87	0,29	6,00	0,37	0,10
+table11	21	Zhang	BV2	TNF-?_mRNA	3,00	44,38	4,75	3,00	16,98	2,86
+table12	11	Li	BV2	TNF-?_ sol_protein	3,00	198,32	30,13	3,00	105,43	22,60
+table12	21	Zhang	BV2	TNF-?_ sol_protein	3,00	821,91	142,36	3,00	388,13	31,64
+table12	9	Jiang	Primary	TNF-?_ sol_protein	5,00	95,53	9,47	5,00	63,15	6,32
+table13	18	Xin	BV2	IL-1?_mRNA	6,00	1,41	0,19	6,00	1,12	0,19
+table13	21	Zhang	BV2	IL-1?_mRNA	3,00	50,96	8,54	3,00	16,99	3,79
+table14	11	Li	BV2	IL-1? _sol_protein	3,00	232,22	36,40	3,00	131,80	22,59
+table14	21	Zhang	BV2	IL-1? _sol_protein	3,00	278,54	23,73	3,00	150,68	31,64
+table14	8	Hu	BV2	IL-1? _sol_protein	3,00	111,84	3,22	3,00	75,63	5,57
+table15	11	Li	BV2	IL-6_sol_protein	3,00	156,90	30,12	3,00	105,43	11,31
+table15	21	Zhang	BV2	IL-6_sol_protein	3,00	821,92	102,81	3,00	347,03	94,90
+table15	9	Jiang	Primary	IL-6_sol_protein	5,00	152,08	14,59	5,00	100,00	8,33
+table16	12	Liu	BV2	Arg-1_mRNA	3,00	8,59	0,65	3,00	15,42	1,45
+table16	7a	Hu_a	BV2	Arg-1_mRNA	6,00	1,44	1,81	6,00	13,73	2,32
+table16	7b	Hu_b	BV2	Arg-1_mRNA	6,00	1,44	1,81	6,00	18,79	3,62
